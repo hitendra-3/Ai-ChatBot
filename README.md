@@ -14,4 +14,4 @@ A responsive web-based chatbot built with **HTML**, **CSS**, and **JavaScript**,
 3. Enter a message or upload an image, then click send.  
 4. Get AI-generated responses instantly.  
 
-> **Note:** Replace the `Api_Url` key in `script.js` with your own Google Gemini API key for full functionality.
+### **Note:** Replace the `Api_Url` key in `script.js` with your own Google Gemini API key for full functionality.
