@@ -20,6 +20,6 @@ Enter a message or upload an image, then click send.
 
 Get AI-generated responses instantly.
 
-# Note: Replace the Api_Url key in script.js with your own Google Gemini API key for full functionality.
+## Note: Replace the Api_Url key in script.js with your own Google Gemini API key for full functionality.
 
 
