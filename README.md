@@ -10,6 +10,7 @@ A responsive web-based chatbot built with HTML, CSS, and JavaScript, powered by 
 # 📂 Project Structure -
 ai-chatbot/
 │── index.html
+
 │── style.css
 │── script.js
 └── assets/
