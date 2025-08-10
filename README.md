@@ -1,17 +1,31 @@
 # AI Chatbot
-A simple, interactive AI-powered chatbot built with HTML, CSS, and JavaScript that integrates with Google’s Gemini API to provide intelligent, conversational responses.
+A responsive web-based chatbot built with HTML, CSS, and JavaScript, powered by Google's Gemini API for intelligent text and image-based conversations.
 
-Features:
+# 🚀 Features -
 💬 Real-time AI text responses
-🖼 Option to send and process images
-🎨 Modern and responsive chat UI
-🌐 Deployable on GitHub Pages
+🖼 Send and process images
+🎨 Modern, responsive chat UI
+🌐 Easy deployment with GitHub Pages
 
-Tech Stack:
-Frontend: HTML, CSS, JavaScript
-AI Model: Google Gemini API
-Hosting: GitHub Pages
+# 📂 Project Structure -
+ai-chatbot/
+│── index.html
+│── style.css
+│── script.js
+└── assets/
+    ├── ai.png
+    ├── favi.svg
+    ├── img.svg
+    ├── submit.svg
+    └── loading.webp
+    
+🛠 Setup & Usage
+Clone or download the repository.
+Open index.html in your browser.
+Enter a message or upload an image, then click send.
+Get AI-generated responses instantly.
+Note: Replace the Api_Url key in script.js with your own Google Gemini API key for full functionality.
 
-Usage:
-Type your question or message in the input field.
-Click send and receive an AI-generated response in real-time.
+https://your-username.github.io/ai-chatbot
+📜 License
+This project is licensed under the MIT License.
